@@ -66,7 +66,7 @@ const cake = `
 
 const wish = `
 
-     (\___/)
+.    (|___/)
      (='.'=)  
     (")___(")  ~ Nimitz, the softest soul
 
